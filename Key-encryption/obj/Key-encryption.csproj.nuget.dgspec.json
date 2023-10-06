@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxim\\source\\repos\\Key-encryption\\Key-encryption\\Key-encryption.csproj": {}
+    "C:\\Users\\maxim\\Source\\Repos\\Project\\Key-encryption\\Key-encryption.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxim\\source\\repos\\Key-encryption\\Key-encryption\\Key-encryption.csproj": {
+    "C:\\Users\\maxim\\Source\\Repos\\Project\\Key-encryption\\Key-encryption.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxim\\source\\repos\\Key-encryption\\Key-encryption\\Key-encryption.csproj",
+        "projectUniqueName": "C:\\Users\\maxim\\Source\\Repos\\Project\\Key-encryption\\Key-encryption.csproj",
         "projectName": "Key-encryption",
-        "projectPath": "C:\\Users\\maxim\\source\\repos\\Key-encryption\\Key-encryption\\Key-encryption.csproj",
+        "projectPath": "C:\\Users\\maxim\\Source\\Repos\\Project\\Key-encryption\\Key-encryption.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxim\\source\\repos\\Key-encryption\\Key-encryption\\obj\\",
+        "outputPath": "C:\\Users\\maxim\\Source\\Repos\\Project\\Key-encryption\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

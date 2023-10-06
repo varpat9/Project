@@ -11,3 +11,16 @@ C:\Users\maxim\source\repos\Key-encryption\Key-encryption\obj\Debug\netcoreapp3.
 C:\Users\maxim\source\repos\Key-encryption\Key-encryption\obj\Debug\netcoreapp3.1\Key-encryption.dll
 C:\Users\maxim\source\repos\Key-encryption\Key-encryption\obj\Debug\netcoreapp3.1\Key-encryption.pdb
 C:\Users\maxim\source\repos\Key-encryption\Key-encryption\obj\Debug\netcoreapp3.1\Key-encryption.genruntimeconfig.cache
+C:\Users\maxim\Source\Repos\Project\Key-encryption\bin\Debug\netcoreapp3.1\Key-encryption.exe
+C:\Users\maxim\Source\Repos\Project\Key-encryption\bin\Debug\netcoreapp3.1\Key-encryption.deps.json
+C:\Users\maxim\Source\Repos\Project\Key-encryption\bin\Debug\netcoreapp3.1\Key-encryption.runtimeconfig.json
+C:\Users\maxim\Source\Repos\Project\Key-encryption\bin\Debug\netcoreapp3.1\Key-encryption.runtimeconfig.dev.json
+C:\Users\maxim\Source\Repos\Project\Key-encryption\bin\Debug\netcoreapp3.1\Key-encryption.dll
+C:\Users\maxim\Source\Repos\Project\Key-encryption\bin\Debug\netcoreapp3.1\Key-encryption.pdb
+C:\Users\maxim\Source\Repos\Project\Key-encryption\obj\Debug\netcoreapp3.1\Key-encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Source\Repos\Project\Key-encryption\obj\Debug\netcoreapp3.1\Key-encryption.AssemblyInfoInputs.cache
+C:\Users\maxim\Source\Repos\Project\Key-encryption\obj\Debug\netcoreapp3.1\Key-encryption.AssemblyInfo.cs
+C:\Users\maxim\Source\Repos\Project\Key-encryption\obj\Debug\netcoreapp3.1\Key-encryption.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Source\Repos\Project\Key-encryption\obj\Debug\netcoreapp3.1\Key-encryption.dll
+C:\Users\maxim\Source\Repos\Project\Key-encryption\obj\Debug\netcoreapp3.1\Key-encryption.pdb
+C:\Users\maxim\Source\Repos\Project\Key-encryption\obj\Debug\netcoreapp3.1\Key-encryption.genruntimeconfig.cache
