@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography;
@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.IO;
 
 
-namespace Lab3_Korsakov
+namespace Key_encryption
 {
     internal class Program
     {
@@ -28,13 +28,13 @@ namespace Lab3_Korsakov
 
         static void MatrixInput(int number)
         {
-             char[,] InputArr = new char[number, number];
+            char[,] InputArr = new char[number, number];
             //Запись и создание матрицы 
             int k = 0;
             for (int i = 0; i < number; i++)
             {
                 for (int j = 0; j < number; j++)
-                    
+
                 {
                     try
                     {
@@ -50,7 +50,7 @@ namespace Lab3_Korsakov
             MatrixMix(number, InputArr);
         }
 
-        
+
 
         static void MatrixMix(int number, char[,] Array)
         {
@@ -96,14 +96,14 @@ namespace Lab3_Korsakov
                 for (int j = 0; j < number; j++)
                 {
                     MixedArr[i, j] = Array[i, Rankey[j]];
-                    Console.Write(MixedArr[i,j]);
+                    Console.Write(MixedArr[i, j]);
                 }
             }
         }
 
         static void Deshifr()
         {
-            
+
         }
     }
 }
